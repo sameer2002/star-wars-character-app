@@ -7,11 +7,11 @@
 - **Testing**: Vitest + React Testing Library
 - **API**: Star Wars API (SWAPI)
 
-## 📋 Installation
+## Installation
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/AbhayGseven/star-wars-character-app.git
+   git clone https://github.com/sameer2002/star-wars-character-app.git
    cd star-wars-character-app
    \`\`\`
 
@@ -27,12 +27,12 @@
 
 The application will be available at \`http://localhost:3000\`
 
-## 🔐 Demo Credentials
+## Demo Credentials
 
 - **Username**: admin
 - **Password**: password
 
-## 🧪 Running Tests
+## Running Tests
 
 \`\`\`bash
 npm run test
@@ -43,7 +43,7 @@ For UI test runner:
 npm run test:ui
 \`\`\`
 
-## 📁 Project Structure
+## Project Structure
 
 \`\`\`
 src/
@@ -58,13 +58,13 @@ src/
 └── index.css # Global styles
 \`\`\`
 
-## 🚢 Building for Production
+## Building for Production
 
 \`\`\`bash
 npm run build
 \`\`\`
 
-## 🔄 Future Enhancements
+## Future Enhancements
 
 - Add more filtering options (films, homeworld)
 - Implement favorites/bookmarking
